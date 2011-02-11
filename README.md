@@ -1,7 +1,8 @@
 ## Portal to the Universe
 
 This is clone of the 'Portal to the Universe' app for iPhone
-http://www.portaltotheuniverse.org/
+
+    http://www.portaltotheuniverse.org/
 
 The original application has been designed and developed by Víctor R. Ruiz (@vrruiz, linotipo.es), with contributions from Lars Holm Nielsen (ESO).
 
